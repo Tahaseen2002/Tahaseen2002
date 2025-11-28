@@ -105,9 +105,9 @@ Here are a few projects that represent how I think and build:
 
 <!-- Replace these placeholders with your real links -->
 
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-link-here)
-- 🌎 Portfolio: [Your Portfolio](https://your-portfolio-url.com)
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/tahaseen-shaik/)
+- 🌎 Portfolio: [Your Portfolio](https://melodic-pithivier-29c4fe.netlify.app/)
+- 📧 Email: tahaseen292@gmail.com
 
 ---
 
