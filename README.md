@@ -66,9 +66,6 @@ Here are a few projects that represent how I think and build:
 - 🤖 **Dialogflow Chatbot (Frontend + Backend)**  
   Chatbot built with **React** and **Dialogflow**, plus Node backend to connect everything together.
 
-- 🍔 **Food Order App (Udemy-based, improved)**  
-  Full-stack food ordering app with **state management, cart flows, and API integration**.
-
 - 🗓️ **Event Management Calendar (Firebase)**  
   Calendar-based event tool with **Firebase** for real-time data and authentication.
 
