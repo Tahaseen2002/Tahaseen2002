@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tahaseen 👋</h1>
 
 <h3 align="center">
-  Full Stack Developer • React & Next.js on the front • NestJS & Node.js on the back
+  Full Stack Developer & Front end Developer • React & Next.js on the front • NestJS & Node.js on the back
 </h3>
 
 <p align="center">
