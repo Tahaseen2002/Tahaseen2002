@@ -61,7 +61,7 @@ Here are a few projects that represent how I think and build:
   Secure graphical password system built with **React + TypeScript**, inspired by research-backed authentication models.
 
 - 🧑‍💼 **ATS HireVolts (Frontend & Backend)**  
-  Applicant Tracking System with **admin UI, candidate flows, job-posting module and backend APIs** – focused on real-world recruiting workflows.
+  Applicant Tracking System with **admin UI, candidate flows, job-posting module and backend APIs** –focused on real-world recruiting workflows.
 
 - 🤖 **Dialogflow Chatbot (Frontend + Backend)**  
   Chatbot built with **React** and **Dialogflow**, plus Node backend to connect everything together.
