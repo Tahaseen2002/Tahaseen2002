@@ -18,7 +18,7 @@ I'm a Full Stack Developer who loves building **real-world web apps** – from a
 - 🧠 I enjoy turning **vague requirements into working MVPs** quickly.
 - 📈 I care a lot about **clean UI, performance, and DX (developer experience)**.
 - 💬 I like working on **chatbots, dashboards, event tools, and auth-heavy apps**.
-- 🚀 Currently sharpening my skills with **TypeScript & scalable app architecture**.
+- 🚀 Currently sharpening my skills with **TypeScript & scalable app architecture & AI**.
 
 ---
 
